@@ -1,4 +1,8 @@
 ravi kumar
 25
 cse
-NIE
+NIE 
+first rank student
+hobbies : volleyball, cricket , co-co
+
+he is developing the application
